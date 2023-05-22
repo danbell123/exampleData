@@ -4,7 +4,7 @@
         "user": {
           "id": 1,
           "username": "user1",
-          "profilePicture": "https://example.com/user1/profile.jpg"
+          "profilePicture": "https://example.com/user1/profie.jpg"
         },
         "weightWorkout": {
           "date": "2023-05-23T00:00:00Z",
